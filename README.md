@@ -4,7 +4,7 @@
 
 A concurrent (async) web crawler in Rust that respects bounded concurrency, deduplicates URLs, optionally restricts to the seed origin, and exports crawl results to JSON.
 
-https://github.com/yourname/rust-crawler
+Created by Roni Herschmann
 
 ## Features
 - Async I/O with Tokio and Reqwest
